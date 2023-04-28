@@ -1,0 +1,16 @@
+.nav-container{
+    background-color: steelblue;
+    color: white;
+    padding: 5px;
+}
+.nav-container a{
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 20px;
+    padding: 5px 10px;
+    color: white;
+
+}
+.nav-container a:hover{
+    background-color: rgb(62, 68, 66);
+}

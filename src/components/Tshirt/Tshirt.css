@@ -1,0 +1,23 @@
+.tshirt-card{
+    border: 1.5px solid gray;
+    background-color: rgb(68, 133, 189);
+    margin: 5px;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+.tshirt-card img{
+    background-color: gainsboro;
+   width: 220px;
+   height: 220px;
+   border-radius: 100%;
+}
+.tshirt-card button{
+    background-color: rgb(36, 168, 36);
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    width: 120px;
+}

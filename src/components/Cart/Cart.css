@@ -1,0 +1,27 @@
+.cart-container{
+    margin: 30px 10px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: left;
+}
+.cart-btn{
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 5px;
+    width: 250px;
+    
+}
+.danger{
+    background-color: rgb(255, 1, 1);
+}
+.yellow{
+    background-color: rgb(170, 190, 42);
+}
+.green{
+    background-color: rgb(27, 188, 21);
+}
